@@ -1,0 +1,231 @@
+{
+  "aoe-1": [
+    {
+      "id": 1,
+      "cheat": "COINAGE",
+      "desc": "Gives you 1000 gold."
+    },
+    {
+      "id": 2,
+      "cheat": "PEPPERONI PIZZA",
+      "desc": "Gives you 1000 food."
+    },
+    {
+      "id": 3,
+      "cheat": "QUARRY",
+      "desc": "Gives you 1000 stone."
+    },
+    {
+      "id": 4,
+      "cheat": "WOODSTOCK",
+      "desc": "Gives you 1000 wood."
+    },
+    {
+      "id": 5,
+      "cheat": "GRANTLINKSPENCE",
+      "desc": "Animals will kill with one bite."
+    },
+    {
+      "id": 6,
+      "cheat": "POW!",
+      "desc": "Baby wields super gun."
+    },
+    {
+      "id": 7,
+      "cheat": "HARI KARI",
+      "desc": "Commits suicide."
+    },
+    {
+      "id": 8,
+      "cheat": "DARK RAIN",
+      "desc": "Composite archers become stealthy."
+    },
+    {
+      "id": 9,
+      "cheat": "KING AUTHOR",
+      "desc": "Eagles become Dragons."
+    },
+    {
+      "id": 10,
+      "cheat": "REVEAL MAP",
+      "desc": "Reveals the entire map."
+    },
+    {
+      "id": 11,
+      "cheat": "FLYING DUTCHMAN",
+      "desc": "Juggernauts can move on land."
+    },
+    {
+      "id": 12,
+      "cheat": "STORMBILLY",
+      "desc": "Spawns a mechanized soldier."
+    },
+    {
+      "id": 13,
+      "cheat": "HOYOHOYO",
+      "desc": "Spawns a priest with 600 HP and 6 Speed."
+    },
+    {
+      "id": 14,
+      "cheat": "CONVERT THIS!",
+      "desc": "Priestly units summon lightning."
+    },
+    {
+      "id": 15,
+      "cheat": "NO FOG",
+      "desc": "Removes fog of war."
+    },
+    {
+      "id": 16,
+      "cheat": "BIG DADDY",
+      "desc": "Spawns a black rocket launcher."
+    },
+    {
+      "id": 17,
+      "cheat": "BIG MOMMA",
+      "desc": "Spawns a white rocket launcher."
+    },
+    {
+      "id": 18,
+      "cheat": "DIEDIEDIE",
+      "desc": "Slays all opponents in the match."
+    },
+    {
+      "id": 19,
+      "cheat": "KILL [Opponent Name Here]",
+      "desc": "Slay selected opponent."
+    },
+    {
+      "id": 20,
+      "cheat": "PHOTON MAN",
+      "desc": "Soldiers wield laser blasters."
+    },
+    {
+      "id": 21,
+      "cheat": "E=MC2 TROOPER",
+      "desc": "Soldiers wield nuclear weapons."
+    },
+    {
+      "id": 22,
+      "cheat": "RESIGN",
+      "desc": "Forfeits the current match."
+    },
+    {
+      "id": 23,
+      "cheat": "STEROIDS",
+      "desc": "Upgrades all units to the latest level."
+    },
+    {
+      "id": 24,
+      "cheat": "ICBM",
+      "desc": "Upgrades all ballistas with a range of 100."
+    },
+    {
+      "id": 24,
+      "cheat": "BIG BERTHA",
+      "desc": "Upgrades all heavy catapults."
+    },
+    {
+      "id": 25,
+      "cheat": "HOME RUN",
+      "desc": "Wins the campaign."
+    }
+  ],
+  "aoe-2": [
+    {
+      "id": 1,
+      "cheat": "lumberjack",
+      "desc": "Gives you 1000 wood."
+    },
+    {
+      "id": 2,
+      "cheat": "cheese steak jimmy's",
+      "desc": "Gives you 1000 food."
+    },
+    {
+      "id": 3,
+      "cheat": "robin hood",
+      "desc": "Gives you 1000 gold."
+    },
+    {
+      "id": 4,
+      "cheat": "rock on",
+      "desc": "Gives you 1000 stone."
+    },
+    {
+      "id": 5,
+      "cheat": "ninjalui",
+      "desc": "Gives you 10,000 of all resources."
+    },
+    {
+      "id": 6,
+      "cheat": "wimpywimpywimpy",
+      "desc": "Commits suicide."
+    },
+    {
+      "id": 7,
+      "cheat": "natural wonders",
+      "desc": "Lets you control animals instead of humans."
+    },
+    {
+      "id": 8,
+      "cheat": "marco",
+      "desc": "Reveals the full map."
+    },
+    {
+      "id": 9,
+      "cheat": "polo",
+      "desc": "Removes fog of war."
+    },
+    {
+      "id": 10,
+      "cheat": "aegis",
+      "desc": "Instantly completes any process."
+    },
+    {
+      "id": 11,
+      "cheat": "i r winner",
+      "desc": "You win the match."
+    },
+    {
+      "id": 12,
+      "cheat": "resign",
+      "desc": "You lose the match."
+    },
+    {
+      "id": 13,
+      "cheat": "to smithereens",
+      "desc": "Spawns a petard."
+    },
+    {
+      "id": 14,
+      "cheat": "how do you turn this on",
+      "desc": "Spawns a Shelby AC Cobra."
+    },
+    {
+      "id": 15,
+      "cheat": "torpedo[Enter Opponent Number Here]",
+      "desc": "Slays selected opponent number."
+    },
+    {
+      "id": 16,
+      "cheat": "Alfred the alpaca",
+      "desc": "Lets you control Alfred the Alpaca"
+    },
+    {
+      "id": 17,
+      "cheat": "woof woof",
+      "desc": "Spawns a flying dog."
+    },
+    {
+      "id": 18,
+      "cheat": "furious the monkey boy",
+      "desc": "Spawns a little monkey."
+    },
+    {
+      "id": 19,
+      "cheat": "i love the monkey head",
+      "desc": "Spawns a useless villager."
+    }
+  ]
+}
