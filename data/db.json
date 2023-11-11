@@ -121,12 +121,12 @@
       "desc": "Upgrades all ballistas with a range of 100."
     },
     {
-      "id": 24,
+      "id": 25,
       "cheat": "BIG BERTHA",
       "desc": "Upgrades all heavy catapults."
     },
     {
-      "id": 25,
+      "id": 26,
       "cheat": "HOME RUN",
       "desc": "Wins the campaign."
     }
